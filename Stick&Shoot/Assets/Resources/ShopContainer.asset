@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 314f2cf0a2b470541a6ba094420c5394, type: 3}
+  m_Name: ShopContainer
+  m_EditorClassIdentifier: 
+  _ballsSkinsConfigs:
+  - {fileID: 11400000, guid: b4c1fba9bbb528d4dbad3b9d6f9377aa, type: 2}
+  - {fileID: 11400000, guid: 6234bccfdeaa70c44ae1356f1e240363, type: 2}
+  - {fileID: 11400000, guid: d919f6429e1f947429df58bb647e73e2, type: 2}
+  - {fileID: 11400000, guid: 301d6acdc440c49479a1c7e740275b01, type: 2}
+  - {fileID: 11400000, guid: 420a753839f6a8a428b4a042a7091806, type: 2}
+  - {fileID: 11400000, guid: 31452d6fd32d36742a3f3b65430c9c95, type: 2}
+  - {fileID: 11400000, guid: 48f6f0eb7d3f9b44bac787b7dd6e9bda, type: 2}
+  - {fileID: 11400000, guid: 21591e7e8e4363a4bbcf8efa934593b2, type: 2}
+  - {fileID: 11400000, guid: eaafc812fc8f57e4e86b6f62bd821ce0, type: 2}
+  - {fileID: 11400000, guid: 36eb4ebf86b9d7e4aaea1a56dcd26b5c, type: 2}
+  - {fileID: 11400000, guid: b4d56315ba96c6141853bb9afe789b71, type: 2}
+  - {fileID: 11400000, guid: 3b9162445901ef2448cc6169ae8ecac7, type: 2}
+  - {fileID: 11400000, guid: b19ce7be01850044b88e53492f5fc48a, type: 2}
+  - {fileID: 11400000, guid: b9699c1404f957943887906cc7620d78, type: 2}
+  - {fileID: 11400000, guid: 106b950f08d20194f83f7940c24af86c, type: 2}
